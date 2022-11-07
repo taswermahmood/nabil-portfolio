@@ -11,19 +11,19 @@
             <v-list-item @click="color = '#f0f8ff'" text v-scroll-to="'#proexperience'">
               <span class="mr-2">Professional Experience</span>
             </v-list-item>
-            <v-list-item @click="color = '#d0fefe'" text v-scroll-to="'#reexperience'">
+            <v-list-item @click="color = '#d0fefe'" text v-scroll-to="'#certificate'">
+              <span class="mr-2">Certificates</span>
+            </v-list-item>
+            <v-list-item @click="color = '#d8e8e6'" text v-scroll-to="'#skills'">
+              <span class="mr-2">Skills</span>
+            </v-list-item>
+            <v-list-item @click="color = '#ddd6e1'" text v-scroll-to="'#reexperience'">
               <span class="mr-2">Research Experience</span>
             </v-list-item>
             <v-list-item @click="color = '#d8e8e6'" text v-scroll-to="'#academics'">
               <span class="mr-2">Academics</span>
             </v-list-item>
-            <v-list-item @click="color = '#dae4ee'" text v-scroll-to="'#skills'">
-              <span class="mr-2">Skills</span>
-            </v-list-item>
-            <v-list-item @click="color = '#ddd6e1'" text v-scroll-to="'#certificate'">
-              <span class="mr-2">Certificates</span>
-            </v-list-item>
-            <v-list-item @click="color = '#f4f5f0'" text v-scroll-to="'#extraCurricular'">
+            <v-list-item @click="color = '#dae4ee'" text v-scroll-to="'#extraCurricular'">
               <span class="mr-2">Extra-curriculars</span>
             </v-list-item>
             <v-list-item @click="color = '#aabba8'" text v-scroll-to="'#references'">
@@ -37,19 +37,19 @@
         <v-btn @click="color = '#f0f8ff'" text v-scroll-to="'#proexperience'">
           <span class="mr-2">Professional Experience</span>
         </v-btn>
-        <v-btn @click="color = '#d0fefe'" text v-scroll-to="'#reexperience'">
+        <v-btn @click="color = '#d0fefe'" text v-scroll-to="'#certificate'">
+          <span class="mr-2">Certifications</span>
+        </v-btn>
+        <v-btn @click="color = '#d8e8e6'" text v-scroll-to="'#skills'">
+          <span class="mr-2">Skills</span>
+        </v-btn>
+        <v-btn @click="color = '#ddd6e1'" text v-scroll-to="'#reexperience'">
           <span class="mr-2">Research Experience</span>
         </v-btn>
         <v-btn @click="color = '#d8e8e6'" text v-scroll-to="'#academics'">
           <span class="mr-2">Academics</span>
         </v-btn>
-        <v-btn @click="color = '#dae4ee'" text v-scroll-to="'#skills'">
-          <span class="mr-2">Skills</span>
-        </v-btn>
-        <v-btn @click="color = '#ddd6e1'" text v-scroll-to="'#certificate'">
-          <span class="mr-2">Certifications</span>
-        </v-btn>
-        <v-btn @click="color = '#f4f5f0'" text v-scroll-to="'#extraCurricular'">
+        <v-btn @click="color = '#dae4ee'" text v-scroll-to="'#extraCurricular'">
           <span class="mr-2">Extra-curriculars</span>
         </v-btn>
         <v-btn @click="color = '#aabba8'" text v-scroll-to="'#references'">
@@ -77,12 +77,12 @@
     <v-main>
       <DescriptionVue id="description" style="min-height:100vh; background: linear-gradient(#efe7df, #f0f8ff);" />
       <ProExperienceVue id="proexperience" style="min-height:100vh; background: linear-gradient(#f0f8ff, #d0fefe);" />
-      <ReExperienceVue id="reexperience" style="min-height:100vh; background: linear-gradient(#d0fefe, #d8e8e6);" />
+      <CertificateVue id="certificate" style="min-height:100vh; background: linear-gradient(#d0fefe, #d8e8e6);" />
+      <SkillsVue id="skills" style="min-height:100vh; background: linear-gradient(#d8e8e6, #ddd6e1);" />
+      <ReExperienceVue id="reexperience" style="min-height:100vh; background: linear-gradient(#ddd6e1, #d8e8e6);" />
       <AcademicsVue id="academics" style="min-height:100vh; background: linear-gradient(#d8e8e6, #dae4ee);" />
-      <SkillsVue id="skills" style="min-height:100vh; background: linear-gradient(#dae4ee, #ddd6e1);" />
-      <CertificateVue id="certificate" style="min-height:100vh; background: linear-gradient(#ddd6e1, #f4f5f0);" />
       <ExtraCurricularVue id="extraCurricular"
-        style="min-height:100vh; background: linear-gradient(#f4f5f0, #aabba8);" />
+        style="min-height:100vh; background: linear-gradient(#dae4ee, #aabba8);" />
       <ReferanceVue id="references" style="min-height:100vh; background: linear-gradient(#aabba8, #efe7df)" />
     </v-main>
   </v-app>
