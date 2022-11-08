@@ -81,8 +81,7 @@
       <SkillsVue id="skills" style="min-height:100vh; background: linear-gradient(#d8e8e6, #ddd6e1);" />
       <ReExperienceVue id="reexperience" style="min-height:100vh; background: linear-gradient(#ddd6e1, #d8e8e6);" />
       <AcademicsVue id="academics" style="min-height:100vh; background: linear-gradient(#d8e8e6, #dae4ee);" />
-      <ExtraCurricularVue id="extraCurricular"
-        style="min-height:100vh; background: linear-gradient(#dae4ee, #aabba8);" />
+      <ExtraCurricularVue id="extraCurricular" style="min-height:100vh; background: linear-gradient(#dae4ee, #aabba8);" />
       <ReferanceVue id="references" style="min-height:100vh; background: linear-gradient(#aabba8, #efe7df)" />
     </v-main>
   </v-app>

@@ -7,16 +7,16 @@
                 <div>Professor</div>
                 <div>Department of Civil Engineering</div>
                 <div>Military Institute of Science and Technology</div>
-                <div>Mirpur Cantonment, Dhaka-1216</div>
+                <div>Mirpur cantonment, Dhaka, Bangladesh</div>
                 <div>Mobile No: +8801715004015</div>
                 <div>Email: zabedin5201@gmail.com</div>
-                <div style="font-weight:bold; padding-top:1%"> Lt. Col Mohammad Russedul Islam, Ph.D., Engrs </div>
+                <div style="font-weight:bold; padding-top:1%"> 2. Lt Col khondaker Shakil Ahmed, Phd, PEng, CEng </div>
                 <div>Associate Professor</div>
                 <div>Department of Civil Engineering</div>
                 <div>Military Institute of Science and Technology</div>
-                <div>Mirpur Cantonment, Dhaka-1216</div>
-                <div>Mobile No: +8801769023882</div>
-                <div>Email: russed@ce.mist.ac</div>
+                <div>Mirpur cantonment, Dhaka, Bangladesh</div>
+                <div>Mobile No: +880 1685-102987</div>
+                <div>Email: drksa@ce.mist.ac.bd</div>
             </div>
         </v-col>
     </v-row>
