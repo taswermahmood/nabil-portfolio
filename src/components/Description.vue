@@ -11,7 +11,7 @@
       <div>Augmented Reality</div>
       <div>Mixed Reality on Construction</div>
       <div>Construction Automation</div>
-      <div>Computer Productivity and human factor construction management</div>
+      <div>Computer productivity and human factor at construction management</div>
       <div data-aos-duration="1500" data-aos="fade-down" style="padding:2%">
         <div style="padding-top:1%"> <strong>Email: </strong> farhantanvirnabil43@gmail.com </div>
         <div style="padding-top:1%"> <strong>Mobile: </strong> +8801628761422 </div>
