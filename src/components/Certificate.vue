@@ -6,11 +6,8 @@
                 <div style="font-weight:bold; padding-top:1%"> Professional Building Design as Per BNBC 2020 (2022)
                 </div>
                 <div>Military Institute of Science and Technology (MIST) </div>
-                <div>Duration: 6 credit per day from 20 march to 24 march</div>
-                <div>The training included foundation and building design using manual calculation and professional
-                    softwares
-                    ETABS, preparing and analyzing the soil report.</div>
-                <div>Department of Civil Engineering</div>
+                <div>Duration: 20 March 2022 to 24 March 2022</div>
+                <div>Foundation and building design using manual calculation and professional software ETABS</div>
             </div>
         </v-col>
         <v-col></v-col>
@@ -23,8 +20,7 @@
             <div data-aos-duration="1500" data-aos="fade-right" style="padding-bottom:2%">
                 <div style="font-weight:bold; padding-top:1%"> BIM Fundamentals for Engineers
                 </div>
-                <div>National Taiwan University</div>
-                <div>Online Course | Coursera</div>
+                <div>National Taiwan University | Coursera</div>
             </div>
         </v-col>
         <v-col></v-col>
