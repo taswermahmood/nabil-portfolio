@@ -18,7 +18,7 @@
                     <div style="padding-bottom: 3%;">
                         Undergraduate Thesis
                     </div>
-                    <v-btn src="../assets/paper.pdf"> Learn More</v-btn>
+                    <v-btn href="https://drive.google.com/file/d/1Mu1jNr5e6CSJ436Gn6LHWDHd0cWVo-MG/view?usp=sharing" target="_blank"> Learn More</v-btn>
                 </v-col>
             </v-row>
         </div>
