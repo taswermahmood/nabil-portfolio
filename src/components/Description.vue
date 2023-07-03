@@ -4,11 +4,11 @@
       <div style="font-family: 'Lilita One', cursive; font-size: 40px;">
         <div> Farhan Tanvir Nabil.</div>
       </div>
-      <div style="font-weight:bold; font-size: 20px; padding-top:1%"> Farhan Tanvir Nabil has served as an assistant
+      <div style="font-size: 20px; padding-top:1%"> Farhan Tanvir Nabil has served as an assistant
         engineer and research assistant at Military Institute of
         Science and Technology (MIST) in the Department of Civil Engineering. He completed his BSc in Civil
         Engineering in 2022 from MIST. He developed an Electro-Mechanical apparatus to automate the soil test
-        for his undergraduate thesis which was published in Proceedings of the 6 th International Conference on
+        for his undergraduate thesis which was published in Proceedings of the 6th International Conference on
         Advances in Civil Engineering (ICACE-2022), Chattogram. He is dedicated to advancing construction
         safety and management through the implementation of computer vision, machine learning, data analytics,
         Building Information Technology, virtual reality and augmented reality. He has two key projects focusing
