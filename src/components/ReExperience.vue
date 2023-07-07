@@ -18,7 +18,7 @@
                     <div style="padding-bottom: 3%;">
                         Undergraduate Thesis
                     </div>
-                    <v-btn href="https://drive.google.com/file/d/1Mu1jNr5e6CSJ436Gn6LHWDHd0cWVo-MG/view?usp=sharing" target="_blank"> Learn More</v-btn>
+                    <v-btn href="https://www.researchgate.net/publication/372164960_DEVELOPMENT_OF_AN_ELECTRO-MECHANICAL_APPARATUS_FOR_DETERMINING_PLASTIC_LIMIT_OF_SOIL" target="_blank"> Learn More</v-btn>
                 </v-col>
             </v-row>
         </div>
