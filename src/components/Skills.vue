@@ -4,7 +4,7 @@
             <div data-aos-duration="1500" data-aos="fade-left" style="padding-bottom:2%">
                 <div style="font-family: 'Lilita One', cursive; font-size: 40px; padding-bottom: 1%;"> Key Projects</div>
                 <v-row style="padding-left:2%" justify="center">
-                    <v-col cols="7">
+                    <v-col cols="12">
                         <a href="https://github.com/ftnabil97/Construction-Site-Safety-Inspection-Application" target="_blank" style="font-weight:bold; font-size: 20px; padding:1% 0%">Construction Site Safety Inspection Application</a>
                         <div style="padding-top:1%">
                             Construction safety is of utmost significance in the construction industry, ensuring the well-being and protection of workers, stakeholders, and the public. The construction Site Inspection
@@ -31,14 +31,14 @@
                             built-in functionality to directly read or handle NumPy arrays. However, NumPy array can be converted into a compatible PIL image. There are also buttons assigned to selectively detect objects as well as
                             all of them at once.</div>
                     </v-col>
-                    <v-col style="padding-top: 2%;" cols="5">
-                        <div style="text-align: center;">
-                            <v-img height="320px" width="600px" src="../assets/inspection.png"></v-img>
+                    <v-col justify="center" align="center" style="padding-top: 2%;" cols="12">
+                        <div>
+                            <v-img height="40%" width="70%" src="../assets/inspection.png"></v-img>
                         </div>
                     </v-col>
                 </v-row>
                 <v-row style="padding-left:2%" justify="center">
-                    <v-col cols="7">
+                    <v-col cols="12">
                         <a href="https://github.com/ftnabil97/Construction-Site-Safety-Gears-Detection/tree/main" target="_blank" style="font-weight:bold; font-size: 20px; padding:1% 0%"> Construction-Site-Safety-Gears-Detection</a>
                         <div style="padding-top:1%">
                             Construction site safety gears detection project primarily focuses training a pretrained model
@@ -46,12 +46,12 @@
                             namely best.pt is specifically trained based on yolov8s.pt. The model is trained with a dataset
                             consisting of 424 images which were collected and annotated using the Roboflow framework.
                             After training, it returns visuals of the confusion matrix, p curve, F1 curve, and more. This
-                            training model can be utilized to develop further applications. The code was written on google
+                            training model can be utilized to develop further applications. The code was written on google.
                         </div>
                     </v-col>
-                    <v-col style="padding-top: 2%;" cols="5">
-                        <div style="text-align: center;">
-                            <v-img height="320px" width="600px" src="../assets/gear.png"></v-img>
+                    <v-col justify="center" align="center"  style="padding-top: 2%;" cols="12">
+                        <div>
+                            <v-img height="40%" width="70%" src="../assets/gear.png"></v-img>
                         </div>
                     </v-col>
                 </v-row>
